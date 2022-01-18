@@ -3,5 +3,6 @@ public class diff {
         int a=2,b=3;
         int sum=a-b;
         System.out.println(sum);
+        System.out.println("hello");
     }
 }
